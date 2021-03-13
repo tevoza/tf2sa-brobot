@@ -1,3 +1,8 @@
+
+def cunt(input):
+    input += 10
+    return input
+
 def mycalc(input):
     input += 1
     return input
