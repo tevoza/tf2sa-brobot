@@ -9,6 +9,7 @@ def mycalc(input):
 
 if __name__ == "__main__":
     print("brehteren bot project")
+    print("my cool feature")
     num = 10
     num = mycalc(num)
     print(num)
