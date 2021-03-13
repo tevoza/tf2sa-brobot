@@ -12,3 +12,5 @@ if __name__ == "__main__":
     num = 10
     num = mycalc(num)
     print(num)
+    num = cunt(num)
+    print (num)
