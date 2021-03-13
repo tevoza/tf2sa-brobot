@@ -11,6 +11,7 @@ if __name__ == "__main__":
     print("brehteren bot project")
     print("my cool feature")
     print("feature2")
+    print("yeeeee brodaaaaa")
     num = 10
     num = mycalc(num)
     print(num)
